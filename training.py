@@ -1,5 +1,7 @@
 import nltk
 import tensorflow 
+nltk.download('punkt')
+nltk.download('wordnet')
 from tensorflow import keras
 from keras.layers import Dense, Activation, Dropout
 from keras.models import Sequential
