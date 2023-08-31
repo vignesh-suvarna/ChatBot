@@ -1,7 +1,0 @@
-Create OpenAI  chatbot and integrate with the frontend.
-Create NLP & Machine Learning Chatbot
-    - Create/Gather training data for feeding to the chatbot for predictions
-    - Train the chatbot using nltk and tensorflow to understand user input and
-      give appropriate response to the user  
-    - Create a User Interface for the Chatbot
-    
